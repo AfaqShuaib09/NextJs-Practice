@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "author": "John Doe",
+      "date": "October 15, 2023",
+      "summary": "Learn the basics of React and how to get started with creating web applications."
+    },
+    {
+      "id": 2,
+      "title": "Styling in React with CSS Modules",
+      "author": "Jane Smith",
+      "date": "October 16, 2023",
+      "summary": "Explore CSS Modules to style your React components effectively."
+    },
+    {
+      "id": 3,
+      "title": "State Management in React with Redux",
+      "author": "Michael Johnson",
+      "date": "October 17, 2023",
+      "summary": "Discover how to manage state in your React applications using Redux."
+    },
+    {
+      "id": 4,
+      "title": "Routing in React with React Router",
+      "author": "Emily Davis",
+      "date": "October 18, 2023",
+      "summary": "Learn how to implement client-side routing in your React apps using React Router."
+    }
+  ]

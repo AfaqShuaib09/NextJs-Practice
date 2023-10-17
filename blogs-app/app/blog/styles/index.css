@@ -1,0 +1,37 @@
+/* src/components/Home.css */
+.home {
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+  }
+  
+  .blog-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .blog-post {
+    max-width: 400px;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .blog-post h2 {
+    margin-top: 0;
+  }
+  
+  .blog-post a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .blog-post a:hover {
+    text-decoration: underline;
+  }
